@@ -1,3 +1,3 @@
-#include
-  for ( ;count <=10 ;count++){
+練習用
+
 
